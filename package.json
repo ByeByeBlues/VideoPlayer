@@ -1,0 +1,13 @@
+{
+	"name":"VideoPlayer",
+	"version":"0.0.2",
+	"description":"VideoPlayer for Cordova 3.0",
+	"cordova":{
+		"id":"com.phonegap.plugins.videoplayer",
+		"platforms":["android"]
+	},
+	"repository":{
+		"type":"git",
+		"url":"git+https://github.com/ByeByeBlues/VideoPlayer"
+	}
+}
